@@ -4,8 +4,8 @@ body{background-color: #fff8ed;
 }
 h1, h2{	text-align: center;
 	font-family: 'Press Start 2P';
-	font-size: 32px;
-	color: #4c4c4c;
+	font-size: 22px;
+	color: #a3004c;
 	letter-spacing: 2px;
 }
 .h2a{position: absolute;
@@ -27,10 +27,10 @@ img{width: 100%;
 	top: 20%;
 	right: 10%;
 	font-family: 'Press Start 2P';
-	font-size: 32px;
+	font-size: 22px;
 	line-height: 1.8;
 	letter-spacing: 0.5px;
-	color: #4c4c4c;
+	color: #a3004c;
 }
 .img2{position: relative;
  	margin-top: 5%;
@@ -62,14 +62,14 @@ img{width: 100%;
 	margin-top: -7%;
 }
 .container{position: relative;}
-a {	color: #4c4c4c;
+a {	color: #a3004c;
 	text-decoration: none;
 }
 .position2{margin-left: 5%;
 	font-family: 'Press Start 2P';
-	font-size: 22px;
+	font-size: 12px;
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 	}
 .position3{position: relative; 
 	width: 70%;
@@ -77,44 +77,44 @@ a {	color: #4c4c4c;
 	left: 50%;
 	transform: translateX(-50%);
 	font-family: 'Press Start 2P';
-	font-size: 22px;
+	font-size: 12px;
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 	}
 .position4{position: static; 
 	margin-left: 15%;
 	font-family: 'Press Start 2P';
-	font-size: 22px;
+	font-size: 12px;
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 	}
 .position5{position: relative; 
 	font-family: 'Press Start 2P';
-	font-size: 22px;
+	font-size: 12px;
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 	}
 .position6{position: relative; 
-	font-size: 26px; 
+	font-size: 16px;
 	margin-top: -14%; 
 	left: 34%;
 	font-family: 'Press Start 2P';
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 	}
 .position7{position: static; 
 	margin-top: 19%;
 	height: 100px;
 	font-family: 'Press Start 2P';
-	font-size: 38px;
+	font-size: 24px;
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 	}
 .last{position: relative; 
 	font-family: 'Press Start 2P';
-	font-size: 22px;
+	font-size: 12px;
 	line-height: 2.1;
-	color: #4c4c4c;
+	color: #a3004c;
 }
 #contacts{z-index: 100; 
 	position: relative; 
@@ -123,13 +123,13 @@ a {	color: #4c4c4c;
 	transform: translateX(-50%);
 }
 #thx{position: static; 
-	font-size: 26px;
+	font-size: 16px;
 	margin-left: 50%;
 	transform: translateX(-50%);
 	margin-top: 10%;
 }
 .end{position: static;
-	font-size: 15px; 
+	font-size: 6px;
 	font-family: 'Press Start 2P'; 
 	text-align: right; 
 	margin-top: 2%;
@@ -142,33 +142,33 @@ a {	color: #4c4c4c;
 	body{background-color: #fff8ed;
 	margin: 0;
 }
-h1, h2{	font-size: 14px;
+h1, h2{	font-size: 6px;
 }
 .h2a{	top: 1%;
 }
 
 .position1{top: 15%;
 	right: 7%;
-	font-size: 12px;
+	font-size: 4px;
 	
 }
 
 .position2{
-	font-size: 12px;
+	font-size: 6px;
 	}
-.position3{font-size: 8.5px;
+.position3{font-size: 4.5px;
 	}
-.position4{font-size: 10px;
+.position4{font-size: 4px;
 	}
-.position5{font-size: 10px;
+.position5{font-size: 4px;
 	}
-.position6{font-size: 10px;
+.position6{font-size: 4px;
 	margin-top: -15%;
 	line-height: 1.5;
 	}
-.position7{font-size: 14px;
+.position7{font-size: 6px;
 	}
-.last{	font-size: 10px;
+.last{	font-size: 4px;
 	}
 .img6{	margin-top: -10%;
 }
@@ -178,8 +178,8 @@ h1, h2{	font-size: 14px;
 }
 #contacts{margin-top: 9%;
 }
-#thx{	font-size: 10px;
+#thx{	font-size: 4px;
 }
-.end{	font-size: 9px; 
+.end{	font-size: 3px;
 }
 }
