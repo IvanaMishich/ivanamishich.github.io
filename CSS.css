@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 body{background-color: #fff8ed;
 	margin: 0;
 }
 h1, h2{	text-align: center;
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 32px;
 	color: #4c4c4c;
 	letter-spacing: 2px;
@@ -25,7 +26,7 @@ img{width: 100%;
 	text-align: left;
 	top: 20%;
 	right: 10%;
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 32px;
 	line-height: 1.8;
 	letter-spacing: 0.5px;
@@ -65,7 +66,7 @@ a {	color: #4c4c4c;
 	text-decoration: none;
 }
 .position2{margin-left: 5%;
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 22px;
 	line-height: 2.1;
 	color: #4c4c4c;
@@ -75,20 +76,20 @@ a {	color: #4c4c4c;
 	margin-top: -50%; 
 	left: 50%;
 	transform: translateX(-50%);
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 22px;
 	line-height: 2.1;
 	color: #4c4c4c;
 	}
 .position4{position: static; 
 	margin-left: 15%;
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 22px;
 	line-height: 2.1;
 	color: #4c4c4c;
 	}
 .position5{position: relative; 
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 22px;
 	line-height: 2.1;
 	color: #4c4c4c;
@@ -97,20 +98,20 @@ a {	color: #4c4c4c;
 	font-size: 26px; 
 	margin-top: -14%; 
 	left: 34%;
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	line-height: 2.1;
 	color: #4c4c4c;
 	}
 .position7{position: static; 
 	margin-top: 19%;
 	height: 100px;
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 38px;
 	line-height: 2.1;
 	color: #4c4c4c;
 	}
 .last{position: relative; 
-	font-family: mv boli;
+	font-family: 'Press Start 2P';
 	font-size: 22px;
 	line-height: 2.1;
 	color: #4c4c4c;
@@ -129,7 +130,7 @@ a {	color: #4c4c4c;
 }
 .end{position: static;
 	font-size: 15px; 
-	font-family: mv boli; 
+	font-family: 'Press Start 2P'; 
 	text-align: right; 
 	margin-top: 2%;
 	margin-right: 1%;
