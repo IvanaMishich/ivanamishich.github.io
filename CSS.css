@@ -9,13 +9,12 @@ h1, h2{	text-align: center;
 	color: #a3004c;
 	letter-spacing: 2px;
 }
-.h2a{position: absolute;
+.h2a{position: relative;
 	top: 5%;
-	left: 50%;
 	color: #a3004c;
-	transform: translateX(-50%);
+	text-align: center;
 }
-.h2b{position: relative; 
+.h2b{position: relative;
 }
 img{width: 100%;
 	position: relative;
@@ -41,34 +40,37 @@ img{width: 100%;
 	display: block;
 	margin: 0 auto;
 }
-.img3{position: relative; 
-	width: 16%; 
-	float: right; 
-	margin-right: 17%; 
+.img3{position: relative;
+	width: 16%;
+	float: right;
+	margin-right: 17%;
 }
-.img4{position: static; 
+.img4{position: static;
 	width: 20%;
 	float: left;
 	margin-top: 1%;
 	margin-left: 8%;
 	margin-right: 3%;
 }
-.img5{position: relative; 
-	width: 2.5%; 
-	left: 13%; 
+.img5{position: relative;
+	width: 2.5%;
+	left: 13%;
 	margin-top: 1.5%;
 }
-.img6{position: relative; 
+.img6{position: relative;
 	width: 7.5%;
 	margin-left: 63%;
 	margin-top: -2%;
 }
-.img7{position: static; 
-	width: 6%; 
+.img7{position: static;
+	width: 6%;
 	margin-left: 67%;
 	margin-top: -7%;
 }
-.container{position: relative;
+.container1{position: relative;
+	margin-top: -60%;
+}
+.container2{position: relative;
 }
 a {	color: #a3004c;
 	text-decoration: none;
@@ -80,9 +82,9 @@ a {	color: #a3004c;
 	line-height: 2.1;
 	color: #a3004c;
 	}
-.position3{position: relative; 
+.position3{position: relative;
 	width: 60%;
-	margin-top: -53%;
+
 	left: 50%;
 	transform: translateX(-50%);
 	font-family: 'Press Start 2P';
