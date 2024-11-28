@@ -16,12 +16,24 @@ h1, h2{	text-align: center;
 }
 .h2b{position: relative;
 }
+.hgame{font-size: 20px;
+	color: #00bda7;
+}
+.descr{font-size: 17px;
+	}
+.git{color: #2b2ba2;
+	font-size: 20px;
+	}
 img{width: 100%;
 	position: relative;
 }
 .img1{width: 48%;
 	display: block;
 	margin: 0 auto;
+}
+.exp{width: 68%;
+	display: block;
+	margin: 0px auto;
 }
 .position1{z-index: 100;
 	position: absolute;
@@ -68,6 +80,7 @@ img{width: 100%;
 	margin-top: -7%;
 }
 .container1{position: relative;
+	text-align: center;
 	margin-top: -60%;
 }
 .container2{position: relative;
@@ -84,9 +97,9 @@ a {	color: #a3004c;
 	}
 .position3{position: relative;
 	width: 60%;
-
-	left: 50%;
-	transform: translateX(-50%);
+	text-align center;
+	display: block;
+	margin: 0 auto;
 	font-family: 'Press Start 2P';
 	font-size: 14px;
 	line-height: 2.1;
@@ -95,7 +108,7 @@ a {	color: #a3004c;
 .position4{position: static; 
 	margin-left: 15%;
 	font-family: 'Press Start 2P';
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 2.1;
 	color: #a3004c;
 	}
@@ -123,9 +136,12 @@ a {	color: #a3004c;
 	}
 .last{position: relative; 
 	font-family: 'Press Start 2P';
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 2.1;
 	color: #a3004c;
+}
+#certificates{margin-top: 12%;
+	margin-bottom: 15%;
 }
 #contacts{z-index: 100; 
 	position: relative; 
@@ -153,40 +169,61 @@ a {	color: #a3004c;
 	body{background-color: #fff8ed;
 	margin: 0;
 }
-h1, h2{	font-size: 6px;
+h1, h2{	font-size: 12px;
 }
 .h2a{	top: 1%;
 }
-
 .position1{top: 15%;
-	right: 7%;
-	font-size: 4px;
-	
+	right: 15%;
+	font-size: 10px;
+	}
+.position2{margin-left: 10%;
+	margin-right: 10%;
+	font-size: 10px;
+	}
+.hgame{
+	font-size: 12px;
 }
-
-.position2{
-	font-size: 6px;
+.descr{font-size: 10px;
 	}
-.position3{font-size: 4.5px;
+.git{color: #2b2ba2;
+	font-size: 11px;
 	}
-.position4{font-size: 4px;
+.position3{font-size: 9.5px;
+	width: 70%;
 	}
-.position5{font-size: 4px;
+.exp{width: 95%;
+	margin-top: 13%;
 	}
-.position6{font-size: 4px;
-	margin-top: -15%;
+.container1{margin-top: -95%;
+	}
+.position4{font-size: 9px;
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+.position5{font-size: 9px;
+	margin-right: 3%;
+	margin-top: -3%;
+	}
+.position6{font-size: 10px;
+	margin-top: -4%;
+	left: 32%;
 	line-height: 1.5;
 	}
-.last{	font-size: 4px;
+.last{position: static;
+	font-size: 9px;
+	margin-top: -3.5%;
 	}
-.img6{	margin-top: -10%;
+#certificates{margin-top: 5%;
 }
-#contacts{margin-top: 9%;
+.img6{margin-top: -10%;
+	margin-left: 75%;
+	width: 10%;
 }
-#thx{	font-size: 4px;
+#contacts{margin-top: 10%;
 }
-.end{font-size: 14px;
-	display: block;
-	margin: 0 auto;
+#thx{font-size: 8px;
+	width: 70%;
+	margin-top: -4%;
 }
 }
